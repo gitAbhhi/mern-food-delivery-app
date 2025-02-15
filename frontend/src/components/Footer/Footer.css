@@ -23,6 +23,10 @@
     align-items: start;
     gap: 20px;
 }
+.footer-content-left img{
+    width: 150px;
+    border-radius: 20px;
+}
 
 .footer-content-left li, .footer-content-right li, .footer-content-center li{
     list-style: none;
